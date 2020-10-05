@@ -5,7 +5,7 @@ Runs on your Android device!
 Bellow is the installation and setup of running a server on your device
 
  1. Install [Termux](https://play.google.com/store/apps/details?id=com.termux)
- 2. Run this command: `pkg install git && git clone https://github.com/MrHallway0/Portable-Server-Project.git && sh ./Portable-Server-Project/setup.sh`
+ 2. Run this command: `pkg install git python && git clone https://github.com/MrHallway0/Portable-Server-Project.git && sudo python ./Portable-Server-Project/setup.py`
  3. It will provide you with a setup wizard follow the on screen prompts and get ready to have a server on the go!
 
 # Idea
